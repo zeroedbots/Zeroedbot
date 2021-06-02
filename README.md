@@ -1,1 +1,1 @@
-# Zeroedbot
+# Zerobot
